@@ -1,0 +1,148 @@
+\begin{thebibliography}{10}
+
+\bibitem{satoshinakamoto}
+S.~Nakamoto, ``Bitcoin: A peer-to-peer electronic cash system,'' {\em
+  Cryptography Mailing list at https://metzdowd.com}, 03 2009.
+
+\bibitem{overviewofblockchainsecurity}
+H.~Wang, Y.~Wang, Z.~Cao, Z.~Li, and G.~Xiong, ``An overview of blockchain
+  security analysis,'' in {\em Cyber Security} (X.~Yun, W.~Wen, B.~Lang,
+  H.~Yan, L.~Ding, J.~Li, and Y.~Zhou, eds.), (Singapore), pp.~55--72, Springer
+  Singapore, 2019.
+
+\bibitem{democraticmininginbitcoins}
+G.~Paul, P.~Sarkar, and S.~Mukherjee, ``Towards a more democratic mining in
+  bitcoins,'' in {\em Information Systems Security} (A.~Prakash and
+  R.~Shyamasundar, eds.), (Cham), pp.~185--203, Springer International
+  Publishing, 2014.
+
+\bibitem{gfg_cent_vs_decent}
+``Comparison - {Centralized}, {Decentralized} and {Distributed} {Systems}.''
+  \url{https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/},
+  Dec. 2018.
+\newblock [Online; accessed 13-October-2019].
+
+\bibitem{saad_exploring_2019}
+M.~Saad, J.~Spaulding, L.~Njilla, C.~Kamhoua, S.~Shetty, D.~Nyang, and
+  A.~Mohaisen, ``Exploring the {Attack} {Surface} of {Blockchain}: {A}
+  {Systematic} {Overview},'' {\em arXiv:1904.03487 [cs]}, Apr. 2019.
+\newblock arXiv: 1904.03487.
+
+\bibitem{minerevolutioninbitcoinnetwork}
+L.~Wang and Y.~Liu, ``Exploring miner evolution in bitcoin network,''
+  pp.~290--302, 03 2015.
+
+\bibitem{fangfangdai}
+F.~{Dai}, Y.~{Shi}, N.~{Meng}, L.~{Wei}, and Z.~{Ye}, ``From bitcoin to
+  cybersecurity: A comparative study of blockchain application and security
+  issues,'' in {\em 2017 4th International Conference on Systems and
+  Informatics (ICSAI)}, pp.~975--979, Nov 2017.
+
+\bibitem{topfiveblockchainsecurityissues}
+A.~Chandhok, ``Top five blockchain security issues in 2019.''
+  \url{https://ledgerops.com/blog/2019/03/28/top-five-blockchain-security-issues-in-2019},
+  2019.
+
+\bibitem{blockchainthreatreport}
+``{LedgerOps} - 2018 {Blockchain} {Threat} {Report}.pdf({Shared})- {Adobe}
+  {Document} {Cloud}.''
+  \url{https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:eae0e5e7-d798-4854-b3fa-4dae1686eb3f},
+  2018.
+\newblock [Online; accessed 9-October-2019].
+
+\bibitem{wiki:phishing}
+{Wikipedia contributors}, ``Phishing --- {Wikipedia}{,} the free
+  encyclopedia.''
+  \url{https://en.wikipedia.org/w/index.php?title=Phishing&oldid=918612483},
+  2019.
+\newblock [Online; accessed 11-October-2019].
+
+\bibitem{andryukhinphishing}
+A.~A. {Andryukhin}, ``Phishing attacks and preventions in blockchain based
+  projects,'' in {\em 2019 International Conference on Engineering Technologies
+  and Computer Science (EnT)}, pp.~15--19, March 2019.
+
+\bibitem{phishingkaspersky}
+``{Phishing for cryptocurrencies: {How} Bitcoins are stolen}.''
+  \url{https://www.kaspersky.com/blog/crypto-phishing/20765/}.
+\newblock [Online; accessed 8-October-2019].
+
+\bibitem{aimedphising}
+E.~{Pearson}, C.~L. {Bethel}, A.~F. {Jarosz}, and M.~E. {Berman}, ``"to click
+  or not to click is the question": Fraudulent url identification accuracy in a
+  community sample,'' in {\em 2017 IEEE International Conference on Systems,
+  Man, and Cybernetics (SMC)}, pp.~659--664, Oct 2017.
+
+\bibitem{phishing_perez_behind_2019}
+Y.~B. Perez, ``Behind the scenes: {Electrum} hackers steal \$4m with {Bitcoin}
+  phishing attacks.''
+  \url{https://thenextweb.com/hardfork/2019/04/16/behind-the-scenes-electrum-hackers-steal-4m-with-bitcoin-phishing-attacks/},
+  Apr. 2019.
+\newblock [Online; accessed 12-October-2019].
+
+\bibitem{51attackonline}
+``Learn {Cryptography} - 51\% {Attack}.''
+  \url{https://learncryptography.com/cryptocurrency/51-attack}, abstract =
+  {Learn Cryptography is a resource to understand how and why the cryptographic
+  systems they use everyday work to secure their communications and protect
+  their privacy.}
+\newblock [Online; accessed 8-October-2019].
+
+\bibitem{wiki:ghash.IO}
+{Wikipedia contributors}, ``Ghash.io --- {Wikipedia}{,} the free
+  encyclopedia.''
+  \url{https://en.wikipedia.org/w/index.php?title=Ghash.io&oldid=901128807},
+  2019.
+\newblock [Online; accessed 12-October-2019].
+
+\bibitem{51attackonethereum}
+``Small {Ethereum} {Clones} {Getting} {Attacked} by {Mysterious} '51 {Crew}'.''
+  \url{https://news.bitcoin.com/ethereum-clones-susceptible-51-attacks/}, Sept.
+  2016.
+
+\bibitem{51attackonbitcoingold}
+FMF, ``A 51\% {Attack} {Happened}- {How} {Did} it {Happen} to {Bitcoin}
+  {Gold}?.''
+  \url{https://medium.com/formosa-financial/a-51-attack-happened-how-did-it-happen-to-bitcoin-gold-da131a8080a6},
+  July 2018.
+\newblock [Online; accessed 12-October-2019].
+
+\bibitem{blackwallet_nodate}
+``Blackwallet hacked, hackers stole \$400,000 from users' accounts through
+  {DNS} {hijackingSecurity} {Affairs}.''
+  \url{https://securityaffairs.co/wordpress/67753/cyber-crime/blackwallet-hacked-dns-hijacking.html}.
+\newblock [Online; accessed 13-October-2019].
+
+\bibitem{chao-yang_dos_2011}
+Z.~Chao-yang, ``{DOS} {Attack} {Analysis} and {Study} of {New} {Measures} to
+  {Prevent},'' in {\em 2011 {International} {Conference} on {Intelligence}
+  {Science} and {Information} {Engineering}}, (Wuhan, China), pp.~426--429,
+  IEEE, Aug. 2011.
+
+\bibitem{dos_wireless_singh_denial_2017}
+R.~S. Singh, A.~Prasad, R.~M. Moven, and H.~K. Deva~Sarma, ``Denial of service
+  attack in wireless data network: {A} survey,'' in {\em 2017 {Devices} for
+  {Integrated} {Circuit} ({DevIC})}, (Kalyani, India), pp.~354--359, IEEE, Mar.
+  2017.
+
+\bibitem{zaghloul_beginners_2018}
+E.~Zaghloul, ``Beginners {Guide} on {Blockchain} {Security} {Attacks} {Part} 1
+  — {Network}.''
+  \url{https://medium.com/zkcapital/beginners-guide-on-blockchain-security-attacks-part-1-network-ca4e74435723},
+  July 2018.
+
+\bibitem{securityrisk}
+P.~Santhana, ``Blockchain {Security} {Risks} for {Financial} {Organizations}
+  {\textbar} {Deloitte} {US}.''
+  \url{https://www2.deloitte.com/us/en/pages/risk/articles/blockchain-security-risks.html},
+  2017.
+\newblock [Online; accessed 12-October-2019].
+
+\bibitem{wiki:proofofwork}
+{Wikipedia contributors}, ``Proof of stake --- {Wikipedia}{,} the free
+  encyclopedia.''
+  \url{https://en.wikipedia.org/w/index.php?title=Proof_of_stake&oldid=918026749},
+  2019.
+\newblock [Online; accessed 12-October-2019].
+
+\end{thebibliography}
