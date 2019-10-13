@@ -4,69 +4,69 @@
 \contentsline {section}{\numberline {1.2}Objective}{2}{section.1.2}% 
 \contentsline {section}{\numberline {1.3}Applications}{3}{section.1.3}% 
 \contentsline {subsubsection}{Cryptocurrency}{3}{section.1.3}% 
+\contentsline {subsubsection}{Supply Chain Use}{3}{section.1.3}% 
 \contentsline {subsubsection}{Health Care}{3}{section.1.3}% 
-\contentsline {subsubsection}{Traffic Scene}{3}{section.1.3}% 
-\contentsline {subsubsection}{Transaction Tracking}{3}{section.1.3}% 
-\contentsline {section}{\numberline {1.4}Report Outline}{3}{section.1.4}% 
-\contentsline {chapter}{\numberline {2}Background and Literature Survey}{4}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Types of System}{4}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Centralized}{4}{subsection.2.1.1}% 
-\contentsline {subsubsection}{Advantages}{5}{subsection.2.1.1}% 
-\contentsline {subsubsection}{Disadvantages}{5}{Item.5}% 
-\contentsline {subsection}{\numberline {2.1.2}Decentralized}{5}{subsection.2.1.2}% 
-\contentsline {subsubsection}{Advantages}{5}{subsection.2.1.2}% 
-\contentsline {subsubsection}{Disadvantages}{6}{Item.13}% 
-\contentsline {subsection}{\numberline {2.1.3}Distributed}{6}{subsection.2.1.3}% 
-\contentsline {subsubsection}{Advantages}{6}{subsection.2.1.3}% 
-\contentsline {subsubsection}{Disadvantages}{6}{Item.19}% 
-\contentsline {section}{\numberline {2.2}Blockchain Technology}{6}{section.2.2}% 
-\contentsline {subsubsection}{Nonce}{7}{section.2.2}% 
-\contentsline {subsubsection}{Mining Process and Miners}{7}{section.2.2}% 
-\contentsline {subsubsection}{How Block is Added to ledger?}{7}{figure.caption.4}% 
-\contentsline {section}{\numberline {2.3}Features of Blockchain Technology}{8}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Robustness}{8}{subsection.2.3.1}% 
-\contentsline {subsection}{\numberline {2.3.2}Censorship-Resistance}{8}{subsection.2.3.2}% 
-\contentsline {subsection}{\numberline {2.3.3}Transparency}{9}{subsection.2.3.3}% 
-\contentsline {subsection}{\numberline {2.3.4}Irreversibility}{9}{subsection.2.3.4}% 
-\contentsline {subsection}{\numberline {2.3.5}Disaster Recovery}{9}{subsection.2.3.5}% 
-\contentsline {section}{\numberline {2.4}Types of Blockchain}{9}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Permissionless Blockchain}{10}{subsection.2.4.1}% 
-\contentsline {subsection}{\numberline {2.4.2}Permissioned Blockchain}{10}{subsection.2.4.2}% 
-\contentsline {section}{\numberline {2.5}Current Research}{10}{section.2.5}% 
-\contentsline {chapter}{\numberline {3}Cybersecurity Attacks, Risk and Prevention}{11}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Types of Attacks and Prevention Measure}{11}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Phishing}{11}{subsection.3.1.1}% 
-\contentsline {subsubsection}{Electrum Bitcoin}{12}{subsection.3.1.1}% 
-\contentsline {subsubsection}{How to Protect System From Phishing ?}{12}{subsection.3.1.1}% 
-\contentsline {subsection}{\numberline {3.1.2}51\% attack}{12}{subsection.3.1.2}% 
-\contentsline {subsubsection}{Ghash.IO}{13}{subsection.3.1.2}% 
-\contentsline {subsubsection}{Krypton Framework}{13}{subsection.3.1.2}% 
-\contentsline {subsubsection}{Bitcoin Gold}{13}{subsection.3.1.2}% 
-\contentsline {subsubsection}{Protection of Blockchain Framework From 51\% Attack}{13}{subsection.3.1.2}% 
-\contentsline {subsection}{\numberline {3.1.3}DNS Redirection}{13}{subsection.3.1.3}% 
-\contentsline {subsubsection}{BlackWallet.co}{13}{figure.caption.5}% 
-\contentsline {subsubsection}{Caution Against DNS Attack}{14}{figure.caption.5}% 
-\contentsline {subsection}{\numberline {3.1.4}DoS Attack}{14}{subsection.3.1.4}% 
-\contentsline {subsubsection}{Step Against DoS Attack}{15}{subsection.3.1.4}% 
-\contentsline {subsection}{\numberline {3.1.5}Sybil Attacks}{15}{subsection.3.1.5}% 
-\contentsline {subsection}{\numberline {3.1.6}Exchange Hack}{15}{subsection.3.1.6}% 
-\contentsline {subsection}{\numberline {3.1.7}Orphaned blocks}{15}{subsection.3.1.7}% 
-\contentsline {subsection}{\numberline {3.1.8}Eclipse Attack}{15}{subsection.3.1.8}% 
-\contentsline {subsection}{\numberline {3.1.9}Consensus Delay}{16}{subsection.3.1.9}% 
-\contentsline {subsection}{\numberline {3.1.10}Double-Spending}{16}{subsection.3.1.10}% 
-\contentsline {subsection}{\numberline {3.1.11}Software Flaw}{16}{subsection.3.1.11}% 
-\contentsline {subsection}{\numberline {3.1.12}Security Management of Self-organization and Anonymity}{16}{subsection.3.1.12}% 
-\contentsline {section}{\numberline {3.2}Security Risk}{16}{section.3.2}% 
-\contentsline {subsection}{\numberline {3.2.1}Standard Risks}{16}{subsection.3.2.1}% 
-\contentsline {subsubsection}{Planning Risk}{16}{subsection.3.2.1}% 
-\contentsline {subsubsection}{Reputational}{17}{subsection.3.2.1}% 
-\contentsline {subsubsection}{Information Security Risk}{17}{subsection.3.2.1}% 
-\contentsline {subsubsection}{Technical Limitations}{17}{subsection.3.2.1}% 
-\contentsline {subsubsection}{Regulatory}{17}{subsection.3.2.1}% 
-\contentsline {subsubsection}{Operational and IT}{17}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}Value Transfer Risks}{17}{subsection.3.2.2}% 
-\contentsline {subsubsection}{Consensus Protocol}{18}{subsection.3.2.2}% 
-\contentsline {subsubsection}{Data Confidentiality}{18}{subsection.3.2.2}% 
-\contentsline {subsubsection}{Key Management}{18}{subsection.3.2.2}% 
-\contentsline {chapter}{\numberline {4}Conclusion and Future Work}{19}{chapter.4}% 
-\contentsline {chapter}{Appendices}{20}{section*.6}% 
+\contentsline {subsubsection}{For Voting System}{3}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Report Outline}{4}{section.1.4}% 
+\contentsline {chapter}{\numberline {2}Background and Literature Survey}{5}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Types of System}{5}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Centralized}{5}{subsection.2.1.1}% 
+\contentsline {subsubsection}{Advantages}{6}{subsection.2.1.1}% 
+\contentsline {subsubsection}{Disadvantages}{6}{Item.5}% 
+\contentsline {subsection}{\numberline {2.1.2}Decentralized}{6}{subsection.2.1.2}% 
+\contentsline {subsubsection}{Advantages}{6}{subsection.2.1.2}% 
+\contentsline {subsubsection}{Disadvantages}{7}{Item.13}% 
+\contentsline {subsection}{\numberline {2.1.3}Distributed}{7}{subsection.2.1.3}% 
+\contentsline {subsubsection}{Advantages}{7}{subsection.2.1.3}% 
+\contentsline {subsubsection}{Disadvantages}{7}{Item.19}% 
+\contentsline {section}{\numberline {2.2}Blockchain Technology}{7}{section.2.2}% 
+\contentsline {subsubsection}{Nonce}{8}{section.2.2}% 
+\contentsline {subsubsection}{Mining Process and Miners}{8}{section.2.2}% 
+\contentsline {subsubsection}{How Block is Added to ledger?}{8}{figure.caption.4}% 
+\contentsline {section}{\numberline {2.3}Features of Blockchain Technology}{9}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Robustness}{9}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Censorship-Resistance}{9}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.3}Transparency}{10}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.4}Irreversibility}{10}{subsection.2.3.4}% 
+\contentsline {subsection}{\numberline {2.3.5}Disaster Recovery}{10}{subsection.2.3.5}% 
+\contentsline {section}{\numberline {2.4}Types of Blockchain}{10}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Permissionless Blockchain}{11}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Permissioned Blockchain}{11}{subsection.2.4.2}% 
+\contentsline {section}{\numberline {2.5}Current Research}{11}{section.2.5}% 
+\contentsline {chapter}{\numberline {3}Cybersecurity Attacks, Risk and Prevention}{12}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Types of Attacks and Prevention Measure}{12}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Phishing}{12}{subsection.3.1.1}% 
+\contentsline {subsubsection}{Electrum Bitcoin}{13}{subsection.3.1.1}% 
+\contentsline {subsubsection}{How to Protect System From Phishing ?}{13}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}51\% attack}{13}{subsection.3.1.2}% 
+\contentsline {subsubsection}{Ghash.IO}{14}{subsection.3.1.2}% 
+\contentsline {subsubsection}{Krypton Framework}{14}{subsection.3.1.2}% 
+\contentsline {subsubsection}{Bitcoin Gold}{14}{subsection.3.1.2}% 
+\contentsline {subsubsection}{Protection of Blockchain Framework From 51\% Attack}{14}{subsection.3.1.2}% 
+\contentsline {subsection}{\numberline {3.1.3}DNS Redirection}{14}{subsection.3.1.3}% 
+\contentsline {subsubsection}{BlackWallet.co}{14}{figure.caption.5}% 
+\contentsline {subsubsection}{Caution Against DNS Attack}{15}{figure.caption.5}% 
+\contentsline {subsection}{\numberline {3.1.4}DoS Attack}{15}{subsection.3.1.4}% 
+\contentsline {subsubsection}{Step Against DoS Attack}{16}{subsection.3.1.4}% 
+\contentsline {subsection}{\numberline {3.1.5}Sybil Attacks}{16}{subsection.3.1.5}% 
+\contentsline {subsection}{\numberline {3.1.6}Exchange Hack}{16}{subsection.3.1.6}% 
+\contentsline {subsection}{\numberline {3.1.7}Orphaned blocks}{16}{subsection.3.1.7}% 
+\contentsline {subsection}{\numberline {3.1.8}Eclipse Attack}{16}{subsection.3.1.8}% 
+\contentsline {subsection}{\numberline {3.1.9}Consensus Delay}{17}{subsection.3.1.9}% 
+\contentsline {subsection}{\numberline {3.1.10}Double-Spending}{17}{subsection.3.1.10}% 
+\contentsline {subsection}{\numberline {3.1.11}Software Flaw}{17}{subsection.3.1.11}% 
+\contentsline {subsection}{\numberline {3.1.12}Security Management of Self-organization and Anonymity}{17}{subsection.3.1.12}% 
+\contentsline {section}{\numberline {3.2}Security Risk}{17}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Standard Risks}{17}{subsection.3.2.1}% 
+\contentsline {subsubsection}{Planning Risk}{17}{subsection.3.2.1}% 
+\contentsline {subsubsection}{Reputational}{18}{subsection.3.2.1}% 
+\contentsline {subsubsection}{Information Security Risk}{18}{subsection.3.2.1}% 
+\contentsline {subsubsection}{Technical Limitations}{18}{subsection.3.2.1}% 
+\contentsline {subsubsection}{Regulatory}{18}{subsection.3.2.1}% 
+\contentsline {subsubsection}{Operational and IT}{18}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Value Transfer Risks}{18}{subsection.3.2.2}% 
+\contentsline {subsubsection}{Consensus Protocol}{19}{subsection.3.2.2}% 
+\contentsline {subsubsection}{Data Confidentiality}{19}{subsection.3.2.2}% 
+\contentsline {subsubsection}{Key Management}{19}{subsection.3.2.2}% 
+\contentsline {chapter}{\numberline {4}Conclusion and Future Work}{20}{chapter.4}% 
+\contentsline {chapter}{Appendices}{21}{section*.6}% 

@@ -29,6 +29,12 @@ G.~Paul, P.~Sarkar, and S.~Mukherjee, ``Towards a more democratic mining in
   R.~Shyamasundar, eds.), (Cham), pp.~185--203, Springer International
   Publishing, 2014.
 
+\bibitem{blockchain_in_voting}
+``Why security experts hate that “blockchain voting” will be used in the
+  midterm elections - {MIT} {Technology} {Review}.''
+  \url{https://www.technologyreview.com/s/611850/why-security-experts-hate-that-blockchain-voting-will-be-used-in-the-midterm-elections/}.
+\newblock [Online; accessed 13-October-2019].
+
 \bibitem{gfg_cent_vs_decent}
 ``Comparison - {Centralized}, {Decentralized} and {Distributed} {Systems}.''
   \url{https://www.geeksforgeeks.org/comparison-centralized-decentralized-and-distributed-systems/},
