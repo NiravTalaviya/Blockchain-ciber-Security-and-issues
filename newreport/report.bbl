@@ -99,6 +99,12 @@ Y.~B. Perez, ``Behind the scenes: {Electrum} hackers steal \$4m with {Bitcoin}
   Apr. 2019.
 \newblock [Online; accessed 12-October-2019].
 
+\bibitem{andryukhin_phishing_2019}
+A.~A. Andryukhin, ``Phishing {Attacks} and {Preventions} in {Blockchain}
+  {Based} {Projects},'' in {\em 2019 {International} {Conference} on
+  {Engineering} {Technologies} and {Computer} {Science} ({EnT})}, pp.~15--19,
+  Mar. 2019.
+
 \bibitem{51attackonline}
 ``Learn {Cryptography} - 51\% {Attack}.''
   \url{https://learncryptography.com/cryptocurrency/51-attack}, abstract =

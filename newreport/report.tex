@@ -20,6 +20,7 @@
 \usepackage{graphicx}
 \usepackage{mathptmx} %for times new roman
 \usepackage{titlesec}
+\usepackage{acro}
 \titleformat{\chapter}[display]
 {\bfseries\Huge\centering}{\chaptertitlename\ \thechapter}{18pt}{\Huge}
 \titleformat{\section}
@@ -28,6 +29,12 @@
   {\large\bfseries}{\thesubsection}{11pt}{}
 \begin{document}
 \pagenumbering{roman}
+\begin{spacing}{1.5}
+\tableofcontents
+\listoftables
+\listoffigures
+\end{spacing}
+\newpage
 \begin{spacing}{1}  %single spacing for abstract
 \begingroup
 \fontsize{12pt}{14pt}\selectfont
@@ -36,15 +43,14 @@
 	\textit{Abstract}
 \end{center}
 \vspace{0.3in}
-\textit{
-\textbf{Keywords:} 
+\textit{\fontsize{10}{10}\selectfont Blockchain has acquired popularity all over the world in short period of time due to its distributed data management solution. Blockchain has provided security and data integrity with the intervention of third party. One of the prominent use of blockchain technology is as a cryptocurrency. People are using cryptocurrency for transferring money, but it has also attracted hacker from all over the world. Attackers are targeting blockchain projects because of high investments. Since its early period blockchain, there has been series of attacks on blockchain frame. With intention to make understanding of this report easy, Types of network are explored. In order to take step towards solving this issue, primary purpose of this report is to give detail about blockchain technology, how it is vulnerable to various kind of attack from adversary. Public and private blockchain are detailed with its pros and cons. Apart from that, some non-technical risks are also discussed. This report also gives insights about some attacks on blockchain projects.   
+\\*
+\\*
+\textbf{Keywords:} Blockchain Technology - Attacks - Risk - Prevention 
 }
 \endgroup
 \end{spacing}
 \begin{spacing}{1.5}
-\tableofcontents
-\listoffigures
-\listoftables
 \chapter{Introduction}
 Blockchain facilitates to transfer value without the need for a intermediate party. Examples of such values are information, contracts, assets, identity. This technology gives cryptographically secure and decentralized mechanism that removes the need of management from single entity. Blockchain technology is building block for the cryptocurrencies such as Bitcoin and Ethereum. It is efficiently shared, trusted, and secure ledger of various transactions.  
 \par
@@ -58,7 +64,6 @@ Myriads of advantages have made blockchain one of omnipresent technology in rece
 Famous cryptocurrency Verge has been victim of cyber attacks for two times. First attack was during April, 2018, at that time attackers stolen digital coin worth of more than \$1.1 million. In May 2018, verge faced the same problem and lost around \$1.75 million \cite{verge_51_attack}. Just Dice was one of most famous gambling platform during year 2013. Authorities announced that some stupid mistakes cost them for \$1,21,000 approximately 1,300 BTC at that time \cite{all_bitcoin_scam}. During November 2012, trojan horse virus was installed on user PCs, which resulted into the lost of 3,457 Bitcoins. Another blockchain technology, MyBitcoin lost almost \$2 million on $8^{th}$ August, 2011 \cite{mybitcoin_hack}. 
 \par
 Apart from that, blockchain start-up, The Backdoor , hacked its own wallet to save own users from possible attacks from attackers. Experts say that these attacks could have avoid with proper planning and preventive measure. Considering above mentioned losses and what happened with The Backdoor, it becomes vital analyze potential attacks on blockchain framework. Analysis and adaption of preventive measure of such attacks and risk is also paramount. 
-
 \section{Objective}
 To give a lucid explanation of centralized, decentralized and distributed system, so that it becomes easy to understand important of blockchain and reason behind its popularity. This report also aims to explain working and important features of blockchain. Types of blockchain, such as public blockchain and private blockkchain, are also detailed.  
 \par
@@ -135,7 +140,7 @@ The process of finding nonce is called mining. The entity which continuously wor
 \begin{figure}[h!]
 \begin{center}
   \includegraphics[width=0.8\linewidth]{images/workingofblockchain.png}
-  \caption{Working of blockchain}
+  \caption{\fontsize{10}{10}\selectfont Working of blockchain}
   \label{img: workingofblockchain}
 \end{center}
 \end{figure}  
@@ -181,7 +186,7 @@ Clone phishing is a type of attack in which duplicate webpage with also most res
 Electrum bitcoin wallet has been victim of phishing attack. From December 2018 to April 2019, Electrum bitcoin wallet user lost almost \$4 million which is as equal as around 771 BTC for the month of April of 2019
 \cite{phishing_perez_behind_2019}. Research done by Malwarebytes Labs, attackers successfully tricked wallet owners to download fraudulent version of wallet.  
 \subsubsection{How to Protect System From Phishing ?}
-Modern methods for protecting blockchain from phishing attack is related can be derived by the use of machine learning and artificial intelligence \cite{blockchainthreatreport,andryukhinphishing}. To discover phishing sites, large number of algorithms are being discovered. One of the solution is find alternative of DNS, as an epitome, ENS (the Ethereum name Service). 
+Modern methods for protecting blockchain from phishing attack is related can be derived by the use of machine learning and artificial intelligence \cite{blockchainthreatreport,andryukhinphishing}. To discover phishing sites, large number of algorithms are being discovered. One of the solution is find alternative of DNS, as an epitome, ENS (the Ethereum name Service). \cite{andryukhin_phishing_2019} 
 \subsection{51\% attack}
 \label{51attack}
 Satoshi Nakamoto mentioned possible security attack on the blockchain by dishonest note \cite{satoshinakamoto}. For adding a block of unconfirmed transactions in blockchain ledger, mining node needs to solve complex problems which requires high computation power. Still by controlling more than half of the blockchain framework, attacker do harm to the framework. If more than 50\% of network's mining power agree on wrong information, then incorrect information is considered as truth, and it becomes eligible to be added into a ledger. In other word, one entity control more than the half of system, then only that entity is sufficient to decide whether to allow transaction or not. Moreover, entity will have power to halt other transaction being added to the system. In nutshell, one entity can monopolise whole blockchain framework. Though 51\% attack can give control to the one entity, alteration of early written block is still infeasible task. Reason behind this is attacker would need to change whole chain of block which is joined via hash function. If 51\% attack is considered as a controlling framework without taking consideration of fraction of network which is under control, then 51\% attack is also possible for less than 50\% of mining power. But chances of getting success decreases. That security flaw also lies in cryptocurrencies such as Ethereal, Bitcoin Gold, Monacoin, Verge, and even gone through such attack ,and almost \$20 million where stolen because of this type of attack during the during the period of 2016-17 \cite{topfiveblockchainsecurityissues,51attackonline}.
@@ -195,12 +200,13 @@ According to the experts, total \$18 million was stolen by combination of both d
 \subsubsection{Protection of Blockchain Framework From 51\% Attack}
 To counter this attack, one way is to change the number of confirmations required to confirm transaction \cite{what_is_51attack_2018}. Bitcoin and Krypton implemented this way in the past to get rid from 51\% attack.
 \subsection{DNS Redirection}
+\label{dnsattack}
 In order to steal sensitive information username, id and password. Most notorious way to do so is via DNS redirection. DNS redirection is also known as DNS hijacking. As shown in Fig \ref{img: dns}, this attack is performed by sending wrong IP address to the user's computer, when computer tries to resolve URL. Because of manipulated IP address, user will be forced to visit website other than expected. That website might resembles as the authentic one, due to that it is very likely that user will enter sensitive information such as 
 username, password, bank details, etc. DNS redirection is one type of technical phishing \cite{andryukhinphishing}.
 \begin{figure}[h!]
 \begin{center}
   \includegraphics[width=0.8\linewidth]{images/dns.png}
-  \caption{DNS attack}
+  \caption{\fontsize{10}{10}\selectfont DNS attack}
   \label{img: dns}
 \end{center}
 \end{figure}
@@ -269,11 +275,34 @@ Though mechanism of blockchain makes it next to impossible to alter the block, c
 %\subsubsection{Legal Liability}
 %\subsubsection{Enforcement of contract}
 %\subsubsection{Information Security}
-\chapter{Conclusion and Future Work}
+\chapter{Conclusion}
+Table \ref{tab:relationattackancomponent} shows which types of attacks can harm which component of blockchain framework. Presence of bullet shows the high possibility. For an example, DNS hijacking can effect Users, because as explained in section \ref{dnsattack}, user can be redirected to fallacious website.   
 \label{chaper4}
-\end{spacing}
-\begin{appendices}
-\end{appendices}
+\begin{table}[h!]
+  \begin{center}
+    \caption{Relations Between Various Attacks and Component of Blockchain Framework}
+    \label{tab:relationattackancomponent}
+    \begin{tabular}{l|c|c|c|c} % <-- Alignments: 1st column left, 2nd middle and 3rd right, with vertical lines in between
+      \toprule
+      \textbf{} & \textbf{DNS hijacking} & \textbf{DoS} & \textbf{51\% Attack} &\textbf{Phishing}\\
+		\hline
+      Blockchain   &           & $\bullet$ & $\bullet$ &\\
+		\hline      
+      Miners       & $\bullet$ & $\bullet$ & $\bullet$ & $\bullet$ \\
+		\hline      
+      Mining Pools & $\bullet$ & $\bullet$ &           & $\bullet$ \\
+		\hline      
+      Exchange     & $\bullet$ &           &           & $\bullet$ \\
+		\hline
+	  Application  &           &           & $\bullet$ &           \\
+		\hline      
+      User         & $\bullet$ &           &           & $\bullet$ \\
+      \bottomrule
+    \end{tabular}
+  \end{center}
+\end{table}  \end{spacing}
+%\begin{appendices}
+%\end{appendices}
 
 %----------------------------------------------------------------------------------------
 %					Bibliography

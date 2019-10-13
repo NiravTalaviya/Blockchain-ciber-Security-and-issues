@@ -60,5 +60,4 @@
 \contentsline {subsubsection}{Consensus Protocol}{18}{subsection.3.2.2}% 
 \contentsline {subsubsection}{Data Confidentiality}{19}{subsection.3.2.2}% 
 \contentsline {subsubsection}{Key Management}{19}{subsection.3.2.2}% 
-\contentsline {chapter}{\numberline {4}Conclusion and Future Work}{20}{chapter.4}% 
-\contentsline {chapter}{Appendices}{21}{section*.6}% 
+\contentsline {chapter}{\numberline {4}Conclusion}{20}{chapter.4}% 
