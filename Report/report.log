@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.24)  13 OCT 2019 10:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.24)  13 OCT 2019 11:26
 entering extended mode
 **./report.tex
 (report.tex
@@ -581,213 +581,218 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 55.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1383) has occurred while \output is active []
 
  [1
 
 ]
-[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+[3]
 Chapter 2.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 78.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3
+ [4
 
 ]
-[4] [5]
-<images/workingofblockchain.png, id=287, 391.4625pt x 320.69812pt>
+[5] [6]
+<images/workingofblockchain.png, id=298, 391.4625pt x 320.69812pt>
 File: images/workingofblockchain.png Graphic file (type png)
 <use images/workingofblockchain.png>
-Package pdftex.def Info: images/workingofblockchain.png  used on input line 123
+Package pdftex.def Info: images/workingofblockchain.png  used on input line 133
 .
 (pdftex.def)             Requested size: 362.37569pt x 296.88577pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[6] [7 <./images/workingofblockchain.png>]
-Overfull \hbox (15.84386pt too wide) in paragraph at lines 145--149
+[7] [8 <./images/workingofblockchain.png>]
+Overfull \hbox (15.84386pt too wide) in paragraph at lines 155--159
 \OT1/ptm/m/n/12 Synchronized stor-age of data at var-i-ous node im-proves fault
 -tolerance and re-li-a-bil-ity of blockchain.
  []
 
-[8] [9]
+[9] [10]
 Chapter 3.
-[10
+[11
 
-] [11]
-<images/dns.png, id=356, 419.31656pt x 225.84375pt>
+] [12]
+<images/dns.png, id=367, 419.31656pt x 225.84375pt>
 File: images/dns.png Graphic file (type png)
 <use images/dns.png>
-Package pdftex.def Info: images/dns.png  used on input line 185.
+Package pdftex.def Info: images/dns.png  used on input line 195.
 (pdftex.def)             Requested size: 362.37569pt x 195.17639pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[12]
+[13]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13 <./images/dns.png>] [14] [15] [16] [17]
+ [14 <./images/dns.png>] [15] [16] [17] [18]
 Chapter 4.
-[18
+[19
 
-] [19
+] [20
 
 
 ] (report.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
+Underfull \hbox (badness 10000) in paragraph at lines 33--37
 []\OT1/ptm/m/n/12 ``Comparison - Cen-tral-ized, De-cen-tral-ized and Dis-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
+Underfull \hbox (badness 10000) in paragraph at lines 33--37
 \OT1/ptm/m/n/12 tributed Sys-tems.'' []$\OT1/cmtt/m/n/12 https : / / www . geek
 sforgeeks . org /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--24
+Underfull \hbox (badness 10000) in paragraph at lines 33--37
 \OT1/cmtt/m/n/12 comparison-[]centralized-[]decentralized-[]and-[]distributed-[
 ]systems/$[]\OT1/ptm/m/n/12 , Dec.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--52
+Underfull \hbox (badness 10000) in paragraph at lines 60--65
 []$\OT1/cmtt/m/n/12 https : / / documentcloud . adobe . com / link / track ? ur
 i = urn : aaid : scds : US :
  []
 
-[20
+[21
 
 ]
-Underfull \hbox (badness 6658) in paragraph at lines 77--82
+Underfull \hbox (badness 6658) in paragraph at lines 90--95
 []\OT1/ptm/m/n/12 Y. B. Perez, ``Be-hind the scenes: Elec-trum hack-ers steal $
 4m with Bit-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--82
+Underfull \hbox (badness 10000) in paragraph at lines 90--95
 \OT1/ptm/m/n/12 coin phish-ing at-tacks.'' []$\OT1/cmtt/m/n/12 https : / / then
 extweb . com / hardfork / 2019 / 04 / 16 /
  []
 
 
-Overfull \hbox (37.84918pt too wide) in paragraph at lines 77--82
+Overfull \hbox (37.84918pt too wide) in paragraph at lines 90--95
 \OT1/cmtt/m/n/12 behind-[]the-[]scenes-[]electrum-[]hackers-[]steal-[]4m-[]with
 -[]bitcoin-[]phishing-[]attacks/$[]\OT1/ptm/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--90
+Underfull \hbox (badness 10000) in paragraph at lines 97--103
 []\OT1/ptm/m/n/12 ``Learn Cryp-tog-ra-phy - 51% At-tack.'' []$\OT1/cmtt/m/n/12 
 https : / / learncryptography . com /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--109
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
 []\OT1/ptm/m/n/12 FMF, ``A 51% At-tack Happened- How Did it Hap-pen to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--109
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
 \OT1/ptm/m/n/12 Bit-coin Gold?.'' []$\OT1/cmtt/m/n/12 https : / / medium . com 
 / formosa-[]financial /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--109
+Underfull \hbox (badness 10000) in paragraph at lines 117--122
 \OT1/cmtt/m/n/12 a-[]51-[]attack-[]happened-[]how-[]did-[]it-[]happen-[]to-[]bi
 tcoin-[]gold-[]da131a8080a6$[]\OT1/ptm/m/n/12 ,
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 111--115
+Underfull \hbox (badness 1515) in paragraph at lines 124--128
 []\OT1/ptm/m/n/12 ``Blackwallet hacked, hack-ers stole $400,000 from users' ac-
 counts through DNS
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--115
+Underfull \hbox (badness 10000) in paragraph at lines 124--128
 \OT1/ptm/m/n/12 hi-jack-ingSe-cu-rity Af-fairs.'' []$\OT1/cmtt/m/n/12 https : /
  / securityaffairs . co / wordpress / 67753 /
  []
 
 
-Underfull \hbox (badness 4556) in paragraph at lines 111--115
+Underfull \hbox (badness 4556) in paragraph at lines 124--128
 \OT1/cmtt/m/n/12 cyber-[]crime / blackwallet-[]hacked-[]dns-[]hijacking . html$
 []\OT1/ptm/m/n/12 .  [On-line; ac-cessed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--133
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
 []\OT1/ptm/m/n/12 E. Za-ghloul, ``Be-gin-ners Guide on Blockchain Se-cu-rity At
 -
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 129--133
+Underfull \hbox (badness 10000) in paragraph at lines 142--146
 \OT1/ptm/m/n/12 tacks Part 1 | Net-work.'' []$\OT1/cmtt/m/n/12 https : / / medi
 um . com / zkcapital /
  []
 
 
-Overfull \hbox (37.34918pt too wide) in paragraph at lines 129--133
+Overfull \hbox (37.34918pt too wide) in paragraph at lines 142--146
 \OT1/cmtt/m/n/12 beginners-[]guide-[]on-[]blockchain-[]security-[]attacks-[]par
 t-[]1-[]network-[]ca4e74435723$[]\OT1/ptm/m/n/12 ,
  []
 
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 136.
+[22]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 149.
+
 
 ("C:\Users\Nirav\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 136.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 149.
 
-Underfull \hbox (badness 7777) in paragraph at lines 135--140
+Underfull \hbox (badness 7777) in paragraph at lines 148--153
 []\OT1/ptm/m/n/12 P. San-thana, ``Blockchain Se-cu-rity Risks for Fi-nan-cial O
 r-ga-ni-za-tions \OMS/cmsy/m/n/12 j \OT1/ptm/m/n/12 De-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--140
+Underfull \hbox (badness 10000) in paragraph at lines 148--153
 \OT1/ptm/m/n/12 loitte US.'' []$\OT1/cmtt/m/n/12 https : / / www2 . deloitte . 
 com / us / en / pages / risk / articles /
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 142--147
+Underfull \hbox (badness 7777) in paragraph at lines 155--160
 []\OT1/ptm/m/n/12 Wikipedia con-trib-u-tors, ``Proof of stake --- Wikipedia, th
 e free en-cy-clo-pe-
  []
 
 
-Underfull \hbox (badness 5260) in paragraph at lines 142--147
+Underfull \hbox (badness 5260) in paragraph at lines 155--160
 \OT1/ptm/m/n/12 dia.'' []$\OT1/cmtt/m/n/12 https : / / en . wikipedia . org / w
  / index . php ? title = Proof _ of _ stake & oldid =
  []
 
-[21])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 266.
- [22]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 266.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 276.
+ [23]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 276.
  (report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 266.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 266.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 276.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 276.
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: E69EF949ADC4C7C0FDDC65E41EEC4597;2741.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 266.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 276.
  ) 
 Here is how much of TeX's memory you used:
- 8601 strings out of 492895
- 131423 string characters out of 3123735
- 246314 words of memory out of 3000000
- 12264 multiletter control sequences out of 15000+200000
+ 8608 strings out of 492895
+ 131541 string characters out of 3123735
+ 246428 words of memory out of 3000000
+ 12267 multiletter control sequences out of 15000+200000
  28473 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,6n,40p,1649b,657s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -799,9 +804,9 @@ nts/type1/urw/times/utmb8a.pfb><C:/Users/Nirav/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Nirav/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Nirav/AppData/Local/Programs/
 MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on report.pdf (27 pages, 263535 bytes).
+Output written on report.pdf (28 pages, 267688 bytes).
 PDF statistics:
- 512 PDF objects out of 1000 (max. 8388607)
- 119 named destinations out of 1000 (max. 500000)
+ 525 PDF objects out of 1000 (max. 8388607)
+ 123 named destinations out of 1000 (max. 500000)
  331 words of extra memory for PDF output out of 10000 (max. 10000000)
 

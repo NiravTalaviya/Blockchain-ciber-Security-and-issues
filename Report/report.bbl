@@ -4,6 +4,19 @@
 S.~Nakamoto, ``Bitcoin: A peer-to-peer electronic cash system,'' {\em
   Cryptography Mailing list at https://metzdowd.com}, 03 2009.
 
+\bibitem{verge_51_attack}
+``Verge {Falls} {Victim} to 51\% {Attack}, {Again} - {CoinCentral}.''
+  \url{https://coincentral.com/verge-falls-victim-to-51-attack-again/}.
+\newblock [Online; accessed 13-October-2019].
+
+\bibitem{all_bitcoin_scam}
+``Bitcoin {Scams} and {Cryptocurrency} {Hacks} {List} -
+  {BitcoinExchangeGuide}.com.''
+
+\bibitem{mybitcoin_hack}
+``Remembering the 2011 {MyBitcoin} {Hack} {Now} {Worth} \$1.8 {Billion},'' Aug.
+  2019.
+
 \bibitem{overviewofblockchainsecurity}
 H.~Wang, Y.~Wang, Z.~Cao, Z.~Li, and G.~Xiong, ``An overview of blockchain
   security analysis,'' in {\em Cyber Security} (X.~Yun, W.~Wen, B.~Lang,
