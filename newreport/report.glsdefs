@@ -1,0 +1,30 @@
+\ifglsentryexists{GCD}{}%
+{%
+\gls@defglossaryentry{GCD}%
+{%
+name={Greea},%
+sort={Greea},%
+type={main},%
+first={\protect \forallglossaries {}{\protect \printglossary [type=]}\glsspace (Greea)},%
+firstplural={\protect \forallglossaries {}{\protect \printglossary [type=]}s\glsspace (Greeas)},%
+text={Greea},%
+plural={Greeas},%
+description={\printglossaries },%
+descriptionplural={\printglossaries \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \forallglossaries {}{\protect \printglossary [type=]}},%
+longplural={\protect \forallglossaries {}{\protect \printglossary [type=]}s},%
+short={Greea},%
+shortplural={Greeas},%
+counter={page},%
+parent={},%
+%
+}%
+}%

@@ -1,31 +1,37 @@
-\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{Objective}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.3}{Applications}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.4}{Report Outline}{chapter.1}% 5
-\BOOKMARK [0][-]{chapter.2}{Background and Literature Survey}{}% 6
-\BOOKMARK [1][-]{section.2.1}{Types of System}{chapter.2}% 7
-\BOOKMARK [2][-]{subsection.2.1.1}{Centralized Framework}{section.2.1}% 8
-\BOOKMARK [2][-]{subsection.2.1.2}{Decentralized Framework}{section.2.1}% 9
-\BOOKMARK [2][-]{subsection.2.1.3}{Distributed Framework}{section.2.1}% 10
-\BOOKMARK [1][-]{section.2.2}{Blockchain Technology}{chapter.2}% 11
-\BOOKMARK [1][-]{section.2.3}{Features of Blockchain Technology}{chapter.2}% 12
-\BOOKMARK [2][-]{subsection.2.3.1}{Robustness}{section.2.3}% 13
-\BOOKMARK [2][-]{subsection.2.3.2}{Censorship-Resistance}{section.2.3}% 14
-\BOOKMARK [2][-]{subsection.2.3.3}{Transparency}{section.2.3}% 15
-\BOOKMARK [2][-]{subsection.2.3.4}{Irreversibility}{section.2.3}% 16
-\BOOKMARK [2][-]{subsection.2.3.5}{Disaster Recovery}{section.2.3}% 17
-\BOOKMARK [1][-]{section.2.4}{Types of Blockchain}{chapter.2}% 18
-\BOOKMARK [2][-]{subsection.2.4.1}{Permissionless Blockchain}{section.2.4}% 19
-\BOOKMARK [2][-]{subsection.2.4.2}{Permissioned Blockchain}{section.2.4}% 20
-\BOOKMARK [0][-]{chapter.3}{Cybersecurity Attacks, Risk and Prevention}{}% 21
-\BOOKMARK [1][-]{section.3.1}{Types of Attacks and Prevention Measure}{chapter.3}% 22
-\BOOKMARK [2][-]{subsection.3.1.1}{Phishing}{section.3.1}% 23
-\BOOKMARK [2][-]{subsection.3.1.2}{51\045 attack}{section.3.1}% 24
-\BOOKMARK [2][-]{subsection.3.1.3}{DNS Redirection}{section.3.1}% 25
-\BOOKMARK [2][-]{subsection.3.1.4}{DoS Attack}{section.3.1}% 26
-\BOOKMARK [2][-]{subsection.3.1.5}{Sybil Attacks}{section.3.1}% 27
-\BOOKMARK [1][-]{section.3.2}{Security Risk}{chapter.3}% 28
-\BOOKMARK [2][-]{subsection.3.2.1}{Standard Risks}{section.3.2}% 29
-\BOOKMARK [2][-]{subsection.3.2.2}{Value Transfer Risks}{section.3.2}% 30
-\BOOKMARK [0][-]{chapter.4}{Conclusion}{}% 31
+\BOOKMARK [0][-]{chapter*.1}{List of Tables}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{List of Figures}{}% 2
+\BOOKMARK [0][-]{chapter*.4}{Abstract}{}% 3
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
+\BOOKMARK [1][-]{section.1.1}{Motivation}{chapter.1}% 5
+\BOOKMARK [1][-]{section.1.2}{Objective}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.3}{Applications}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.4}{Report Outline}{chapter.1}% 8
+\BOOKMARK [0][-]{chapter.2}{Background and Literature Survey}{}% 9
+\BOOKMARK [1][-]{section.2.1}{Types of System}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.1.1}{Centralized Framework}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.2}{Decentralized Framework}{section.2.1}% 12
+\BOOKMARK [2][-]{subsection.2.1.3}{Distributed Framework}{section.2.1}% 13
+\BOOKMARK [1][-]{section.2.2}{Blockchain Technology}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Features of Blockchain Technology}{chapter.2}% 15
+\BOOKMARK [2][-]{subsection.2.3.1}{Robustness}{section.2.3}% 16
+\BOOKMARK [2][-]{subsection.2.3.2}{Censorship-Resistance}{section.2.3}% 17
+\BOOKMARK [2][-]{subsection.2.3.3}{Transparency}{section.2.3}% 18
+\BOOKMARK [2][-]{subsection.2.3.4}{Irreversibility}{section.2.3}% 19
+\BOOKMARK [2][-]{subsection.2.3.5}{Disaster Recovery}{section.2.3}% 20
+\BOOKMARK [1][-]{section.2.4}{Types of Blockchain}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.4.1}{Permissionless Blockchain}{section.2.4}% 22
+\BOOKMARK [2][-]{subsection.2.4.2}{Permissioned Blockchain}{section.2.4}% 23
+\BOOKMARK [0][-]{chapter.3}{Cybersecurity Attacks, Risk and Prevention}{}% 24
+\BOOKMARK [1][-]{section.3.1}{Types of Attacks and Prevention Measure}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.1.1}{Phishing}{section.3.1}% 26
+\BOOKMARK [2][-]{subsection.3.1.2}{51\045 attack}{section.3.1}% 27
+\BOOKMARK [2][-]{subsection.3.1.3}{DNS Redirection}{section.3.1}% 28
+\BOOKMARK [2][-]{subsection.3.1.4}{DoS Attack}{section.3.1}% 29
+\BOOKMARK [2][-]{subsection.3.1.5}{Sybil Attacks}{section.3.1}% 30
+\BOOKMARK [2][-]{subsection.3.1.6}{Eclipse Attack}{section.3.1}% 31
+\BOOKMARK [2][-]{subsection.3.1.7}{Selfish Mining Attack}{section.3.1}% 32
+\BOOKMARK [1][-]{section.3.2}{Security Risk}{chapter.3}% 33
+\BOOKMARK [2][-]{subsection.3.2.1}{Standard Risks}{section.3.2}% 34
+\BOOKMARK [2][-]{subsection.3.2.2}{Value Transfer Risks}{section.3.2}% 35
+\BOOKMARK [0][-]{chapter.4}{Conclusion}{}% 36
+\BOOKMARK [0][-]{chapter*.9}{References}{}% 37

@@ -77,9 +77,10 @@ A.~Chandhok, ``Top five blockchain security issues in 2019.''
 \newblock [Online; accessed 11-October-2019].
 
 \bibitem{andryukhinphishing}
-A.~A. {Andryukhin}, ``Phishing attacks and preventions in blockchain based
-  projects,'' in {\em 2019 International Conference on Engineering Technologies
-  and Computer Science (EnT)}, pp.~15--19, March 2019.
+A.~A. Andryukhin, ``Phishing {Attacks} and {Preventions} in {Blockchain}
+  {Based} {Projects},'' in {\em 2019 {International} {Conference} on
+  {Engineering} {Technologies} and {Computer} {Science} ({EnT})}, pp.~15--19,
+  Mar. 2019.
 
 \bibitem{phishingkaspersky}
 ``{Phishing for cryptocurrencies: {How} Bitcoins are stolen}.''
@@ -98,12 +99,6 @@ Y.~B. Perez, ``Behind the scenes: {Electrum} hackers steal \$4m with {Bitcoin}
   \url{https://thenextweb.com/hardfork/2019/04/16/behind-the-scenes-electrum-hackers-steal-4m-with-bitcoin-phishing-attacks/},
   Apr. 2019.
 \newblock [Online; accessed 12-October-2019].
-
-\bibitem{andryukhin_phishing_2019}
-A.~A. Andryukhin, ``Phishing {Attacks} and {Preventions} in {Blockchain}
-  {Based} {Projects},'' in {\em 2019 {International} {Conference} on
-  {Engineering} {Technologies} and {Computer} {Science} ({EnT})}, pp.~15--19,
-  Mar. 2019.
 
 \bibitem{51attackonline}
 ``Learn {Cryptography} - 51\% {Attack}.''
@@ -137,6 +132,10 @@ FMF, ``A 51\% {Attack} {Happened}- {How} {Did} it {Happen} to {Bitcoin}
   \url{https://thecoinoffering.com/learn/what-is-a-51-attack-blockchain/}, Aug.
   2018.
 \newblock [Online; accessed 13-October-2019].
+
+\bibitem{51_solution_2018}
+``A {Solution} to {Crypto}'s 51\% {Attack}? {Fine} {Miners} {Before} {It}
+  {Happens},'' Oct. 2018.
 
 \bibitem{blackwallet_nodate}
 ``Blackwallet hacked, hackers stole \$400,000 from users' accounts through
